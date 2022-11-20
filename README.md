@@ -1,4 +1,11 @@
-# AWR-Autonomous-Ground-Vehicles-for-Agricultural-purpose ![Alt Text](https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/blob/main/Simulation%20and%20Image%20processing%20Outputs/monophy.gif)
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
-## B.Tech Final year project
+# AWR-Autonomous-Ground-Vehicles-for-Agricultural-purpose <img align="right" width="100" height="100" src="https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/blob/main/Simulation%20and%20Image%20processing%20Outputs/giphy%20(1).gif">
 
+## B.Tech Final year project 
+#### Introduction
+1. Weeds are a curse to agricultural production and lead to diminished crop yield and quality.
+2. Weed management and control are thus essential to the production of high yielding and high-quality crops.
+3. AWR will be a self controlled weeding robot which will be used for identifying and removing the harmful weeds grown in the farms without harming the ecosystem by using various technologies like RTK (Real Time Kinematics) based GPS system, Robot Operating System (ROS), image processing and many more.
+#### Current Status: 
+Simulation Video:
+ 
+![sim](https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/blob/main/Simulation%20and%20Image%20processing%20Outputs/sim.mp4)
