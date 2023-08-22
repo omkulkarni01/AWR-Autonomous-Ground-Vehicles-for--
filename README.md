@@ -2,9 +2,7 @@
 
 ## B.Tech Final year project 
 #### Introduction
-1. Weeds are a curse to agricultural production and lead to diminished crop yield and quality.
-2. Weed management and control are thus essential to the production of high yielding and high-quality crops.
-3. The robot is supposed to roam the field independently, locate and eradicate weeds with a mechanical weeding tool, and do so without harming the crops. The sensor fusion technique is used to combine the strengths of individual sensors like GPS, IMU and LiDAR to improve the overall accuracy of the AWR’s navigation and obstacle avoidance system. The control system is based on ROS (Robot Operating System), which provides a framework for developing complex robotic systems. Also, the proposed system is designed to provide a cost-effective and sustainable solution for weed control in agriculture, reducing labor costs and minimizing environmental impact along with that the data collected by the robot could be used to optimize farming practices, improving efficiency and sustainability.
+"Weeds are a curse to agricultural production and lead to diminished crop yield and quality. Weed management and control are thus essential to the production of high yielding and high-quality crops.The robot is supposed to roam the field independently, locate and eradicate weeds with a mechanical weeding tool, and do so without harming the crops. The sensor fusion technique is used to combine the strengths of individual sensors like GPS, IMU and LiDAR to improve the overall accuracy of the AWR’s navigation and obstacle avoidance system. The control system is based on ROS (Robot Operating System), which provides a framework for developing complex robotic systems. Also, the proposed system is designed to provide a cost-effective and sustainable solution for weed control in agriculture, reducing labor costs and minimizing environmental impact along with that the data collected by the robot could be used to optimize farming practices, improving efficiency and sustainability."
 #### Current Status: 
 1. Final Weed Removal and classification
 
