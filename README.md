@@ -1,4 +1,4 @@
-# AWR-Autonomous-Ground-Vehicles-for-Agricultural-purpose <img align="right" width="100" height="100" src="https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/blob/main/Simulation%20and%20Image%20processing%20Outputs/giphy%20(1).gif">
+# AWR-Autonomous-Ground-Vehicles-for-Agricultural-purpose <img align="right" width="100" height="100" src="https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/blob/main/Simulation%20and%20Image%20processing%20Outputs/Level_1_complete.gif">
 
 ## B.Tech Final year project 
 #### Introduction
