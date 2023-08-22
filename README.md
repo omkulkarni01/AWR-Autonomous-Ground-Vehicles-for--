@@ -10,7 +10,10 @@
 
 https://user-images.githubusercontent.com/74231617/202898167-81439681-d828-400e-92a8-578a2f34ad97.mp4
 
-2. Testing of CNN Model for weed classification:
 
-<img align="center" width="100" height="100" src="https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/blob/main/Simulation%20and%20Image%20processing%20Outputs/AWR_weed_new_detection.mp4">
+
+
+2. Testing of CNN Model for weed classification:
+https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/assets/74231617/c5529456-4904-43e8-b0d9-db42d30613ce
+
 
