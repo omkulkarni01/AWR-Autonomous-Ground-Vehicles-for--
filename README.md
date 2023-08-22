@@ -6,14 +6,11 @@
 2. Weed management and control are thus essential to the production of high yielding and high-quality crops.
 3. AWR will be a self controlled weeding robot which will be used for identifying and removing the harmful weeds grown in the farms without harming the ecosystem by using various technologies like RTK (Real Time Kinematics) based GPS system, Robot Operating System (ROS), image processing and many more.
 #### Current Status: 
-1. Simulation Video:
+1. Final Weed Removal and classification
 
-https://user-images.githubusercontent.com/74231617/202898167-81439681-d828-400e-92a8-578a2f34ad97.mp4
-
-
-
-
-2. Testing of CNN Model for weed classification:
 https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/assets/74231617/c5529456-4904-43e8-b0d9-db42d30613ce
 
+2. Simulation Video:
+
+https://user-images.githubusercontent.com/74231617/202898167-81439681-d828-400e-92a8-578a2f34ad97.mp4
 
