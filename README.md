@@ -10,7 +10,10 @@
 
 https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/assets/74231617/c5529456-4904-43e8-b0d9-db42d30613ce
 
-2. Simulation Video:
+2. Complete navigation and working Video:
 
-https://user-images.githubusercontent.com/74231617/202898167-81439681-d828-400e-92a8-578a2f34ad97.mp4
+
+
+
+https://github.com/omkulkarni01/AWR-Autonomous-Ground-Vehicles-for-Agriculture/assets/74231617/184e08be-07e2-4383-ac9d-c1c77043c079
 
